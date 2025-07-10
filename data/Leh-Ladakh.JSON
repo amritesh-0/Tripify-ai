@@ -1,0 +1,428 @@
+{
+  "leh_ladakh": {
+    "hotels": [
+      {
+        "id": "grand_dragon_ladakh",
+        "name": "The Grand Dragon Ladakh",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/hotels/The_Grand_Dragon_1.png","./assets/images/Leh-Ladakh/hotels/The_Grand_Dragon_2.png","./assets/images/Leh-Ladakh/hotels/The_Grand_Dragon_3.png","hotels/The_Grand_Dragon_4.png"],
+        "address": "Old Road Sheynam, Leh",
+        "contact": "+91-9876543210",
+        "rating": 4.8,
+        "price_range": "₹₹₹₹",
+        "description": "Luxury hotel with mountain views, modern amenities, and excellent service."
+        
+      },
+      {
+        "id": "hotel_shangrila",
+        "name": "Hotel Shangrila - Leh",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/hotels/Hotel_Shangrila - Leh_1.png","./assets/images/Leh-Ladakh/hotels/Hotel_Shangrila - Leh_1.png","./assets/images/Leh-Ladakh/hotels/Hotel_Shangrila - Leh_1.png","hotels/Hotel_Shangrila - Leh_1.png"],
+        "address": "Old Road, Leh",
+        "contact": "+91-9876543221",
+        "rating": 4.5,
+        "price_range": "₹₹₹",
+        "description": "Elegant hotel offering comfort and panoramic views, close to Leh market."
+        
+      },
+      {
+        "id": "lasermo_ladakh",
+        "name": "Lasermo Ladakh",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/hotels/Lasermo_Ladakh_1.JPG","./assets/images/Leh-Ladakh/hotels/Lasermo_Ladakh_2.JPG","./assets/images/Leh-Ladakh/hotels/Lasermo_Ladakh_3.JPG","./assets/images/Leh-Ladakh/hotels/Lasermo_Ladakh_4.JPG"],
+        "address": "Chulung Old Road, Leh",
+        "contact": "+91-9876543232",
+        "rating": 4.6,
+        "price_range": "₹₹₹",
+        "description": "Boutique hotel with garden, modern rooms, and friendly staff."
+        
+      },
+      {
+        "id": "hotel_the_kaal",
+        "name": "Hotel The Kaal",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/hotels/The_Kaal-1.jpg","./assets/images/Leh-Ladakh/hotels/The_Kaal-2.jpg","./assets/images/Leh-Ladakh/hotels/The_Kaal-3.jpg","./assets/images/Leh-Ladakh/hotels/The_Kaal-4.jpg"],
+        "address": "Lower Tukcha Road, Leh",
+        "contact": "+91-9876543243",
+        "rating": 4.4,
+        "price_range": "₹₹",
+        "description": "Budget-friendly hotel with spacious rooms and mountain views."
+        
+      },
+      {
+        "id": "the_mogol_hotel",
+        "name": "The Mogol Hotel",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/hotels/the_mogol_hotel_1.jpg","./assets/images/Leh-Ladakh/hotels/the_mogol_hotel_2.jpg","./assets/images/Leh-Ladakh/hotels/the_mogol_hotel_3.jpg","./assets/images/Leh-Ladakh/hotels/the_mogol_hotel_4.jpg"],
+        "address": "Upper Tukcha Road, Leh",
+        "contact": "+91-9876543254",
+        "rating": 4.3,
+        "price_range": "₹₹",
+        "description": "Modern amenities, comfortable rooms, and a peaceful environment."
+        
+      },
+      {
+        "id": "the_druk_ladakh",
+        "name": "The Druk Ladakh",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/hotels/the_druk_ladakh_1.jpeg","./assets/images/Leh-Ladakh/hotels/the_druk_ladakh_2.jpeg","./assets/images/Leh-Ladakh/hotels/the_druk_ladakh_3.jpeg","./assets/images/Leh-Ladakh/hotels/the_druk_ladakh_4.jpeg"],
+        "address": "Sheldan Fort Road, Leh",
+        "contact": "+91-9876543265",
+        "rating": 4.5,
+        "price_range": "₹₹₹",
+        "description": "Luxury hotel with beautiful decor and attentive service."
+        
+      },
+      {
+        "id": "hotel_gangba",
+        "name": "Hotel Gangba",
+        "location": "Leh",
+        "images": ["hotels/hotel_gangba_1.jpeg","hotels/hotel_gangba_2.jpeg","hotels/hotel_gangba_3.jpeg","hotels/hotel_gangba_4.jpeg"],
+        "address": "Upper Changspa Road, Leh",
+        "contact": "+91-9876543276",
+        "rating": 4.4,
+        "price_range": "₹₹",
+        "description": "Clean rooms, quality food, and friendly staff. Great mountain views."
+        
+      },
+      {
+        "id": "chospa_hotel",
+        "name": "Chospa Hotel",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/hotels/chospa_hotel_1.jpg","./assets/images/Leh-Ladakh/hotels/chospa_hotel_2.jpg","./assets/images/Leh-Ladakh/hotels/chospa_hotel_3.jpg"],
+        "address": "Fort Road, Leh",
+        "contact": "+91-9876543287",
+        "rating": 4.3,
+        "price_range": "₹₹₹",
+        "description": "Modern hotel close to the market with comfortable rooms."
+        
+      },
+      {
+        "id": "ladakh_himalayan_retreat",
+        "name": "Ladakh Himalayan Retreat",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/hotels/ladakh_himalayan_retreat_1.jpg","./assets/images/Leh-Ladakh/hotels/ladakh_himalayan_retreat_2.jpg","./assets/images/Leh-Ladakh/hotels/ladakh_himalayan_retreat_3.jpg","./assets/images/Leh-Ladakh/hotels/ladakh_himalayan_retreat_4.jpg"],
+        "address": "Fort Road, Leh",
+        "contact": "+91-9876543298",
+        "rating": 4.5,
+        "price_range": "₹₹₹",
+        "description": "Clean rooms, great food, and beautiful views from the balcony."
+        
+      },
+      {
+        "id": "the_indus_valley",
+        "name": "The Indus Valley",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/hotels/the_indus_valley_1.jpg","./assets/images/Leh-Ladakh/hotels/the_indus_valley_2.jpg","./assets/images/Leh-Ladakh/hotels/the_indus_valley_3.jpg","./assets/images/Leh-Ladakh/hotels/the_indus_valley_4.jpg"],
+        "address": "Upper Chulung, Leh",
+        "contact": "+91-9876543209",
+        "rating": 4.7,
+        "price_range": "₹₹₹₹",
+        "description": "Elegant hotel in the heart of Leh with attentive staff and modern amenities."
+        
+      }
+    ],
+    "eateries": [
+      {
+        "id": "gesmo_restaurant",
+        "name": "Gesmo Restaurant",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/eateries/gesmo_restaurant1.jpg","./assets/images/Leh-Ladakh/eateries/gesmo_restaurant2.jpg","./assets/images/Leh-Ladakh/eateries/gesmo_restaurant3.jpg","./assets/images/Leh-Ladakh/eateries/gesmo_restaurant4.jpg"],
+        "cuisine": "Tibetan, Indian, Continental",
+        "description": "Famous for momos, yak cheese pizza, and breakfast options."
+        
+      },
+      {
+        "id": "lamayuru_restaurant",
+        "name": "Lamayuru Restaurant",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/eateries/lamayuru_restaurant1.jpg","./assets/images/Leh-Ladakh/eateries/lamayuru_restaurant2.jpg","./assets/images/Leh-Ladakh/eateries/lamayuru_restaurant3.jpg","./assets/images/Leh-Ladakh/eateries/lamayuru_restaurant4.jpg"],
+        "cuisine": "Indian, Tibetan",
+        "description": "Popular for thukpa, butter tea, and Ladakhi cuisine."
+        
+      },
+      {
+        "id": "bon_appetit",
+        "name": "Bon Appetit",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/eateries/bon_appetit1.jpg","./assets/images/Leh-Ladakh/eateries/bon_appetit2.jpg","./assets/images/Leh-Ladakh/eateries/bon_appetit3.jpg","./assets/images/Leh-Ladakh/eateries/bon_appetit4.jpg"],
+        "cuisine": "European, Indian",
+        "description": "Known for wood-fired pizzas, salads, and garden seating."
+        
+      },
+      {
+        "id": "tibetan_kitchen",
+        "name": "The Tibetan Kitchen",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/eateries/tibetan_kitchen1.jpg","./assets/images/Leh-Ladakh/eateries/tibetan_kitchen2.jpg","./assets/images/Leh-Ladakh/eateries/tibetan_kitchen3.jpg","./assets/images/Leh-Ladakh/eateries/tibetan_kitchen4.jpg"],
+        "cuisine": "Tibetan, Chinese, Indian",
+        "description": "Popular for Tibetan specialties and rooftop dining."
+        
+      },
+      {
+        "id": "sky_wok_restaurant",
+        "name": "Sky Wok Restaurant",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/eateries/sky_wok_restaurant1.jpg","./assets/images/Leh-Ladakh/eateries/sky_wok_restaurant2.jpg","./assets/images/Leh-Ladakh/eateries/sky_wok_restaurant3.jpg","./assets/images/Leh-Ladakh/eateries/sky_wok_restaurant4.jpg"],
+        "cuisine": "Chinese, Indian",
+        "description": "Cozy place for Chinese and North Indian dishes."
+        
+      },
+      {
+        "id": "il_forno",
+        "name": "Il Forno",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/eateries/il_forno1.jpg","./assets/images/Leh-Ladakh/eateries/il_forno2.jpg","./assets/images/Leh-Ladakh/eateries/il_forno3.jpg"],
+        "cuisine": "Italian",
+        "description": "Rooftop restaurant with Italian cuisine and great views."
+        
+      },
+      {
+        "id": "metta_cafe",
+        "name": "Metta Cafe",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/eateries/metta_cafe1.jpg","./assets/images/Leh-Ladakh/eateries/metta_cafe2.jpg","./assets/images/Leh-Ladakh/eateries/metta_cafe3.jpg","./assets/images/Leh-Ladakh/eateries/metta_cafe4.jpg"],
+        "cuisine": "Cafe, Bakery",
+        "description": "Coffee, cakes, and light snacks in a relaxing setting."
+        
+      },
+      {
+        "id": "zig_zag_cafe",
+        "name": "Zig Zag Cafe",
+        "location": "Leh",
+        "cuisine": "Multi-cuisine",
+        "description": "Chill cafe with a variety of food and drinks."
+        
+      },
+      {
+        "id": "lamayuru_cafe",
+        "name": "Lamayuru Cafe",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/eateries/lamayuru_restaurant1.jpg","./assets/images/Leh-Ladakh/eateries/lamayuru_restaurant2.jpg","./assets/images/Leh-Ladakh/eateries/lamayuru_restaurant3.jpg","./assets/images/Leh-Ladakh/eateries/lamayuru_restaurant4.jpg"],
+        "cuisine": "Bakery, Cafe",
+        "description": "Fresh bakery items and coffee, popular with travelers."
+        
+      },
+      {
+        "id": "little_italy",
+        "name": "Little Italy",
+        "location": "Leh",
+        "images": ["./assets/images/Leh-Ladakh/eateries/little_italy1.avif"],
+        "cuisine": "Italian",
+        "description": "Italian dishes and pizzas, cozy ambiance."
+        
+      }
+    ],
+    "attractions": [
+      {
+        "id": "pangong_tso",
+        "name": "Pangong Tso (Pangong Lake)",
+        "type": "Lake",
+        "description": "A stunning high-altitude lake known for its changing colors and scenic beauty.",
+        "coordinates": {"lat": 33.7266, "lng": 78.8899}
+        
+      },
+      {
+        "id": "shanti_stupa",
+        "name": "Shanti Stupa",
+        "type": "Religious Monument",
+        "description": "White-domed Buddhist stupa symbolizing peace, built by Japanese Buddhists.",
+        "coordinates": {"lat": 34.1520, "lng": 77.5770}
+        
+      },
+      {
+        "id": "stok_palace",
+        "name": "Stok Palace",
+        "type": "Palace/Museum",
+        "description": "Royal palace of Ladakh’s former rulers, now a heritage hotel and museum.",
+        "coordinates": {"lat": 34.0635, "lng": 77.5762}
+        
+      },
+      {
+        "id": "alchi_monastery",
+        "name": "Alchi Monastery",
+        "type": "Monastery",
+        "description": "Ancient Buddhist monastery complex with remarkable statues and paintings.",
+        "coordinates": {"lat": 34.1420, "lng": 77.1930}
+        
+      },
+      {
+        "id": "magnetic_hill",
+        "name": "Magnetic Hill",
+        "type": "Natural Phenomenon",
+        "description": "Gravity-defying hill where vehicles appear to roll uphill.",
+        "coordinates": {"lat": 34.1840, "lng": 77.5770}
+        
+      },
+      {
+        "id": "royal_leh_palace",
+        "name": "Royal Leh Palace",
+        "type": "Palace/Museum",
+        "description": "Nine-storey palace built in 1600, showcasing royal artifacts and panoramic views.",
+        "coordinates": {"lat": 34.1626, "lng": 77.5854}
+        
+      },
+      {
+        "id": "tso_kar_lake",
+        "name": "Tso Kar Lake",
+        "type": "Lake",
+        "description": "Saline lake on Rupshu Plateau, known for tranquility and natural beauty.",
+        "coordinates": {"lat": 33.0500, "lng": 78.2500}
+        
+      },
+      {
+        "id": "chemrey_monastery",
+        "name": "Chemrey Monastery",
+        "type": "Monastery",
+        "description": "400-year-old monastery with ancient Buddhist texts, located 40 km east of Leh.",
+        "coordinates": {"lat": 34.1200, "lng": 77.9500}
+        
+      },
+      {
+        "id": "diskit_monastery_maitreya",
+        "name": "Diskit Monastery & Maitreya Buddha Statue",
+        "type": "Monastery/Statue",
+        "description": "Famous monastery in Nubra Valley with a 32m statue of Maitreya Buddha.",
+        "coordinates": {"lat": 34.8318, "lng": 77.5657}
+        
+      },
+      {
+        "id": "fotu_la_pass",
+        "name": "Fotu La Pass",
+        "type": "Mountain Pass",
+        "description": "Highest point on Srinagar-Leh highway at 4,108m, connecting through Zanskar Range.",
+        "coordinates": {"lat": 34.2200, "lng": 76.9000}
+        
+      }
+    ],
+
+    "faq": [
+      {
+        "id": "faq_permit_pangong",
+        "question": "Do I need a permit to visit Pangong Lake?",
+        "answer": "Yes, Indian nationals require an Inner Line Permit. Foreigners need a Protected Area Permit."
+        
+      },
+      {
+        "id": "faq_best_time",
+        "question": "What is the best time to visit Leh-Ladakh?",
+        "answer": "The best time is from June to September when the weather is pleasant and roads are open."
+        
+      },
+      {
+        "id": "faq_ams",
+        "question": "How to prevent altitude sickness in Leh-Ladakh?",
+        "answer": "Acclimatize for 1-2 days, stay hydrated, and avoid strenuous activity on arrival."
+        
+      },
+      {
+        "id": "faq_atm",
+        "question": "Are ATMs available in Leh-Ladakh?",
+        "answer": "ATMs are available in Leh town, but carry cash for remote areas."
+        
+      },
+      {
+        "id": "faq_mobile",
+        "question": "Which mobile networks work in Leh-Ladakh?",
+        "answer": "BSNL and Airtel postpaid connections have the best coverage."
+        
+      },
+      {
+        "id": "faq_road",
+        "question": "Are roads to Leh open year-round?",
+        "answer": "No, Manali-Leh and Srinagar-Leh highways are open from June to October."
+        
+      },
+      {
+        "id": "faq_weather",
+        "question": "How cold does it get in Leh-Ladakh?",
+        "answer": "Temperatures can drop below freezing at night, even in summer."
+        
+      },
+      {
+        "id": "faq_food",
+        "question": "Is vegetarian food available in Leh-Ladakh?",
+        "answer": "Yes, most restaurants offer vegetarian options."
+        
+      },
+      {
+        "id": "faq_fuel",
+        "question": "Are fuel stations available on highways?",
+        "answer": "Fuel stations are sparse; fill up in Leh before long journeys."
+        
+      },
+      {
+        "id": "faq_health",
+        "question": "What health precautions should I take?",
+        "answer": "Carry basic medicines, sunscreen, and consult a doctor if you have health issues."
+        
+      }
+    ],
+    "transport": [
+      {
+        "id": "leh_airport",
+        "mode": "Air",
+        "description": "Kushok Bakula Rimpochee Airport connects Leh with major Indian cities."
+        
+      },
+      {
+        "id": "manali_leh_highway",
+        "mode": "Road",
+        "description": "Manali-Leh Highway (473 km) is open June–October; check weather before travel."
+        
+      },
+      {
+        "id": "srinagar_leh_highway",
+        "mode": "Road",
+        "description": "Srinagar-Leh Highway (434 km) is open May–November; scenic and popular route."
+        
+      },
+      {
+        "id": "leh_bus_stand",
+        "mode": "Bus",
+        "description": "Leh Bus Stand offers buses to Nubra, Pangong, and other local destinations."
+        
+      },
+      {
+        "id": "taxi_services",
+        "mode": "Taxi",
+        "description": "Prepaid and shared taxis available for all major routes from Leh."
+        
+      },
+      {
+        "id": "bike_rentals",
+        "mode": "Bike",
+        "description": "Bike rentals available in Leh for local and long-distance trips."
+        
+      },
+      {
+        "id": "permit_office",
+        "mode": "Permit",
+        "description": "Inner Line Permits are issued at the Leh DC Office for Indian nationals."
+        
+      },
+      {
+        "id": "leh_local_transport",
+        "mode": "Local",
+        "description": "Auto-rickshaws and shared cabs available for local sightseeing."
+        
+      },
+      {
+        "id": "leh_to_nubra",
+        "mode": "Road",
+        "description": "Leh to Nubra Valley via Khardung La Pass (120 km, 5-6 hours)."
+        
+      },
+      {
+        "id": "leh_to_pangong",
+        "mode": "Road",
+        "description": "Leh to Pangong Lake via Chang La Pass (150 km, 5-6 hours)."
+        
+      }
+    ]
+  }
+}
+  
+     
+     
+      

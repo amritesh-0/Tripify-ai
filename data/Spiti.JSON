@@ -1,0 +1,239 @@
+{
+  "spiti_valley": {
+    "hotels": [
+      {
+        "id": "spiti_sarai",
+        "name": "Spiti Sarai",
+        "location": "Kaza",
+        "address": "Rangrik, Kaza, Spiti",
+        "contact": "+91-9876543410",
+        "rating": 4.7,
+        "price_range": "₹₹₹₹",
+        "description": "Luxury eco-lodge with panoramic valley views and sustainable amenities.",
+        "images": ["./assets/images/spiti_valley/hotels/Spiti_Serai1.avif", "./assets/images/spiti_valley/hotels/Spiti_Serai2.avif"]
+      },
+      {
+        "id": "deyzor_hotel",
+        "name": "Hotel Deyzor",
+        "location": "Kaza",
+        "address": "Near Old Bus Stand, Kaza",
+        "contact": "+91-9876543421",
+        "rating": 4.6,
+        "price_range": "₹₹₹",
+        "description": "Charming boutique hotel with unique decor and friendly hosts.",
+        "images": ["./assets/images/spiti_valley/hotels/deyzor_hotel1.avif","./assets/images/spiti_valley/hotels/deyzor_hotel2.avif"]
+      },
+      {
+        "id": "sakya_abode",
+        "name": "Sakya Abode",
+        "location": "Kaza",
+        "address": "Old Kaza, Spiti",
+        "contact": "+91-9876543432",
+        "rating": 4.5,
+        "price_range": "₹₹",
+        "description": "Traditional Spitian guesthouse with comfortable rooms and home-cooked meals.",
+        "images": ["./assets/images/spiti_valley/hotels/sakya_abode1.jpeg","./assets/images/spiti_valley/hotels/sakya_abode2.jpeg"]
+      },
+      {
+        "id": "hotel_kunzum_spiti",
+        "name": "Hotel Kunzum Spiti",
+        "location": "Kaza",
+        "address": "Main Market, Kaza",
+        "contact": "+91-9876543454",
+        "rating": 4.3,
+        "price_range": "₹₹",
+        "description": "Budget hotel with basic amenities and easy access to local attractions.",
+        "images": ["./assets/images/spiti_valley/hotels/hotel_kunzum_spiti1.jpg"]
+      }
+    ],
+    "eateries": [
+      {
+        "id": "taste_of_spiti",
+        "name": "Taste of Spiti",
+        "location": "Kaza",
+        "cuisine": "Spitian, Indian, Tibetan",
+        "description": "Popular for thukpa, momos, and local Spitian dishes.",
+        "images": ["./assets/images/spiti_valley/eateries/Taste_of_spiti1.jpg","./assets/images/spiti_valley/eateries/Taste_of_spiti2.jpg"]
+      },
+      {
+        "id": "sol_cafe",
+        "name": "Sol Cafe",
+        "location": "Kaza",
+        "cuisine": "Cafe, Bakery",
+        "description": "Coffee, cakes, and light snacks with free Wi-Fi.",
+        "images": ["./assets/images/spiti_valley/eateries/sol_cafe1.avif","./assets/images/spiti_valley/eateries/sol_cafe2.avif"]
+      },
+      {
+        "id": "himalayan_cafe",
+        "name": "Himalayan Cafe",
+        "location": "Kaza",
+        "cuisine": "Multi-cuisine",
+        "description": "Variety of Indian, Tibetan, and Continental dishes.",
+        "images": ["./assets/images/spiti_valley/eateries/himalayan_cafe1.png","./assets/images/spiti_valley/eateries/himalayan_cafe2.png"]
+      },
+      {
+        "id": "tabo_cafe",
+        "name": "Tabo Cafe",
+        "location": "Tabo",
+        "cuisine": "Cafe, Bakery",
+        "description": "Fresh bakery items and coffee near Tabo Monastery.",
+        "images": ["./assets/images/spiti_valley/eateries/tabo_cafe1.jpg","./assets/images/spiti_valley/eateries/tabo_cafe2.jpg"]
+      },
+      {
+        "id": "kibber_cafe",
+        "name": "Kibber Cafe",
+        "location": "Kibber",
+        "cuisine": "Spitian, Indian",
+        "description": "Homemade food and local delicacies in Kibber village.",
+        "images": ["./assets/images/spiti_valley/eateries/kibber_cafe1.jpg","./assets/images/spiti_valley/eateries/kibber_cafe2.jpg"]
+      }
+    ],
+    "attractions": [
+      {
+        "id": "key_monastery",
+        "name": "Key Monastery",
+        "type": "Monastery",
+        "description": "Largest monastery in Spiti, perched on a hilltop with spectacular views.",
+        "coordinates": {"lat": 32.2857, "lng": 78.0446},
+        "images": ["./assets/images/spiti_valley/attractions/key_monastery1.webp"]
+      },
+      {
+        "id": "chandratal_lake",
+        "name": "Chandratal Lake",
+        "type": "Lake",
+        "description": "Stunning high-altitude lake known as the 'Lake of the Moon'.",
+        "coordinates": {"lat": 32.4750, "lng": 77.6167},
+        "images": ["./assets/images/spiti_valley/attractions/chandratal_lake1.JPG"]
+      },
+      {
+        "id": "tabo_monastery",
+        "name": "Tabo Monastery",
+        "type": "Monastery",
+        "description": "Ancient monastery with exquisite murals and a UNESCO World Heritage site.",
+        "coordinates": {"lat": 32.0966, "lng": 78.3848},
+        "images": ["./assets/images/spiti_valley/attractions/tabo_monastery1.jpg"]
+      },
+      {
+        "id": "dhankar_monastery",
+        "name": "Dhankar Monastery",
+        "type": "Monastery",
+        "description": "Fort monastery perched on a cliff with panoramic valley views.",
+        "coordinates": {"lat": 32.0923, "lng": 78.2248},
+        "images": ["./assets/images/spiti_valley/attractions/dhankar_monastery1.jpg"]
+      },
+      {
+        "id": "pin_valley_national_park",
+        "name": "Pin Valley National Park",
+        "type": "National Park",
+        "description": "Protected area home to snow leopards, ibex, and rare Himalayan flora.",
+        "coordinates": {"lat": 32.1915, "lng": 77.7743},
+        "images": ["./assets/images/spiti_valley/attractions/pin_valley_national_park1.jpg"]
+      }
+    ],
+    "faq": [
+      {
+        "id": "faq_permit_spiti",
+        "question": "Do I need a permit to visit Spiti Valley?",
+        "answer": "Indian nationals do not need a permit. Foreigners require a Protected Area Permit for certain areas."
+      },
+      {
+        "id": "faq_best_time_spiti",
+        "question": "What is the best time to visit Spiti Valley?",
+        "answer": "The best time is June to September when roads are open and weather is pleasant."
+      },
+      {
+        "id": "faq_ams_spiti",
+        "question": "How to prevent altitude sickness in Spiti?",
+        "answer": "Acclimatize for a day in Kaza, stay hydrated, and avoid strenuous activity on arrival."
+      },
+      {
+        "id": "faq_atm_spiti",
+        "question": "Are ATMs available in Spiti Valley?",
+        "answer": "ATMs are available in Kaza, but carry cash for remote areas."
+      },
+      {
+        "id": "faq_mobile_spiti",
+        "question": "Which mobile networks work in Spiti Valley?",
+        "answer": "BSNL has the widest coverage, but expect limited or no signal in many villages."
+      },
+      {
+        "id": "faq_road_spiti",
+        "question": "Are roads to Spiti open year-round?",
+        "answer": "No, the Manali-Kaza road is open June–October; Shimla-Kaza route is open most of the year, weather permitting."
+      },
+      {
+        "id": "faq_weather_spiti",
+        "question": "How cold does it get in Spiti?",
+        "answer": "Nights can be freezing even in summer; winters are extremely cold with heavy snowfall."
+      },
+      {
+        "id": "faq_food_spiti",
+        "question": "Is vegetarian food available in Spiti?",
+        "answer": "Yes, most hotels and cafes offer vegetarian options."
+      },
+      {
+        "id": "faq_fuel_spiti",
+        "question": "Are fuel stations available in Spiti?",
+        "answer": "Fuel is available in Kaza; fill up before heading to remote areas."
+      },
+      {
+        "id": "faq_health_spiti",
+        "question": "What health precautions should I take?",
+        "answer": "Carry basic medicines, sunscreen, and consult a doctor if you have health issues."
+      }
+    ],
+    "transport": [
+      {
+        "id": "shimla_kaza_road",
+        "mode": "Road",
+        "description": "Shimla-Kaza road is open most of the year, passing through Reckong Peo and Nako."
+      },
+      {
+        "id": "manali_kaza_road",
+        "mode": "Road",
+        "description": "Manali-Kaza road (200 km) is open June–October; crosses Rohtang and Kunzum Pass."
+      },
+      {
+        "id": "kaza_bus_stand",
+        "mode": "Bus",
+        "description": "Kaza Bus Stand connects to Manali, Shimla, and local villages."
+      },
+      {
+        "id": "taxi_services_spiti",
+        "mode": "Taxi",
+        "description": "Taxis available in Kaza for sightseeing and inter-village travel."
+      },
+      {
+        "id": "bike_rentals_spiti",
+        "mode": "Bike",
+        "description": "Bike rentals available in Kaza for local and long-distance trips."
+      },
+      {
+        "id": "permit_office_spiti",
+        "mode": "Permit",
+        "description": "Permits for foreigners issued at Reckong Peo or Kaza SDM Office."
+      },
+      {
+        "id": "local_transport_spiti",
+        "mode": "Local",
+        "description": "Shared cabs and jeeps available for local transport between villages."
+      },
+      {
+        "id": "kaza_to_taboo",
+        "mode": "Road",
+        "description": "Kaza to Tabo (48 km, 1.5 hours) by taxi or bus."
+      },
+      {
+        "id": "kaza_to_pin_valley",
+        "mode": "Road",
+        "description": "Kaza to Pin Valley (35 km, 1 hour) by taxi or shared jeep."
+      },
+      {
+        "id": "nearest_airport",
+        "mode": "Air",
+        "description": "Nearest airport is Bhuntar (Kullu), 250 km from Kaza."
+      }
+    ]
+  }
+}
+
